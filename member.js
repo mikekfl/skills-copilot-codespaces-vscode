@@ -1,0 +1,22 @@
+function skillsMember() {
+    var skills = document.getElementById("skills");
+    var skillsMember = document.getElementById("skillsMember");
+    var skillsMemberValue = skillsMember.value;
+    var skillsMemberValueLength = skillsMemberValue.length;
+    var skillsMemberValueSplit = skillsMemberValue.split(",");
+    var skillsMemberValueSplitLength = skillsMemberValueSplit.length;
+    var skillsMemberValueSplitLengthMinus = skillsMemberValueSplitLength - 1;
+    var skillsMemberValueSplitLengthMinusSplit = skillsMemberValueSplit[skillsMemberValueSplitLengthMinusSplit];
+    var skillsMemberValueSplitLengthMinusSplitLength = skillsMemberValueSplitLengthMinusSplit.length;
+    var skillsMemberValueSplitLengthMinusSplitLengthMinus = skillsMemberValueSplitLengthMinusSplitLength - 1;
+    var skillsMemberValueSplitLengthMinusSplitLengthMinusSplit = skillsMemberValueSplitLengthMinusSplit[skillsMemberValueSplitLengthMinusSplitLengthMinusSplit];
+    var skillsMemberValueSplitLengthMinusSplitLengthMinusSplitLength = skillsMemberValueSplitLengthMinusSplitLengthMinusSplit.length;
+    var skillsMemberValueSplitLengthMinusSplitLengthMinusSplitLengthMinus = skillsMemberValueSplitLengthMinusSplitLengthMinusSplitLength - 1;
+    var skillsMemberValueSplitLengthMinusSplitLengthMinusSplitLengthMinusSplit = skillsMemberValueSplitLengthMinusSplitLengthMinusSplitLength[skillsMemberValueSplitLengthMinusSplitLengthMinusSplitLengthMinusSplit];
+    var skillsMemberValueSplitLengthMinusSplitLengthMinusSplitLengthMinusSplitLength = skillsMemberValueSplitLengthMinusSplitLengthMinusSplitLengthMinusSplit.length;
+    var skillsMemberValueSplitLengthMinusSplitLengthMinusSplitLengthMinusSplitLengthMinus = skillsMemberValueSplitLengthMinusSplitLengthMinusSplitLengthMinusSplitLength - 1;
+    var skillsMemberValueSplitLengthMinusSplitLengthMinusSplitLengthMinusSplitLengthMinusSplit = skillsMemberValueSplitLengthMinusSplitLengthMinusSplitLengthMinusSplitLength[skillsMemberValueSplitLengthMinusSplitLengthMinusSplitLengthMinusSplitLengthMinus];
+    var skillsMemberValueSplitLengthMinusSplitLengthMinusSplitLengthMinusSplitLengthMinusSplitLength = skillsMemberValueSplitLengthMinusSplitLengthMinusSplitLengthMinusSplitLengthMinusSplit.length;
+    var skillsMemberValueSplitLengthMinusSplitLengthMinusSplitLengthMinusSplitLengthMinusSplitLengthMinus = skillsMemberValueSplitLengthMinusSplitLengthMinusSplitLengthMinusSplitLengthMinusSplitLength - 1;
+    var skillsMemberValueSplitLengthMinusSplitLengthMinusSplitLengthMinusSplitLengthMinusSplit
+}
